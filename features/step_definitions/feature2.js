@@ -1,8 +1,7 @@
 const assert = require('assert');
 const { Given, When, Then } = require('@cucumber/cucumber');
 
-
-Given('Se intentan añadir especializaciones al perfil', function () {
+  Given('Se intentan añadir especializaciones al perfil', function () {
     // Write code here that turns the phrase above into concrete actions
     return 'pending';
   });
